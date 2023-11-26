@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2bf61ae-77f6-48e2-a194-dfd8d4782058" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../my_website.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/LoginValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/SignupValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/ProjectRestApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/controller/ProjektRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/controller/StudentRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/controller/ZadanieRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/model/Projekt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/model/Zadanie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/repository/ProjektRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/repository/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/repository/ZadanieRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/service/ProjektService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/service/ProjektServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/service/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/service/StudentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/service/ZadanieService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/service/ZadanieServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/test/java/com/project/ProjectRestApiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-backend/src/test/java/com/project/rest/ProjektRestControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/controller/ProjectController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/model/Projekt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/model/Zadanie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/ProjektService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/ProjektServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/RestResponsePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/ServiceUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/StudentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/ZadanieService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/ZadanieServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/resources/templates.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YiwBX9ZC8V3dRjHbcTywLBTQzi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Projekty&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="js.build_tools.npm" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Debug Application">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="ReactNative" factoryName="React Native" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <react-native value="" />
+      <platform value="ANDROID" />
+      <envs />
+      <only-packager />
+      <browser value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <method v="2">
+        <option name="ReactNativePackager" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="backend" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="frontend" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="npm.backend" />
+      <item itemvalue="npm.frontend" />
+      <item itemvalue="React Native.Unnamed" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2bf61ae-77f6-48e2-a194-dfd8d4782058" name="Changes" comment="" />
+      <created>1701021573094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701021573094</updated>
+      <workItem from="1701021574745" duration="12708000" />
+      <workItem from="1701035954528" duration="69000" />
+      <workItem from="1701036185141" duration="98000" />
+      <workItem from="1701036416033" duration="159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

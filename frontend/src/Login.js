@@ -18,7 +18,7 @@ function Login() {
         event.preventDefault();
         setErrors(Validation(values))
         if(errors.email === "" && errors.password === "") {
-            axios.post('http://localhost:8081/login', values)
+            axios.post('https://wielkaniewiadoma.cfolks.pl:8081/login', values)
                 .then(res => {
                     if(res.data === "Success") {
                         navigate('/home');

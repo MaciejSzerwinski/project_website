@@ -21,7 +21,7 @@ function Signup() {
         event.preventDefault();
         setErrors(Validation(values));
         if(errors.name === "" && errors.email === "" && errors.password === "") {
-            axios.post('http://localhost:8081/signup', values)
+            axios.post('https://wielkaniewiadoma.cfolks.pl:8081/wielkaniewiadoma_signup', values)
                 .then(res => {
                     navigate('/');
                 })

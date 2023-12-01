@@ -5,91 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2bf61ae-77f6-48e2-a194-dfd8d4782058" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../my_website.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/LoginValidation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/Signup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/SignupValidation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/ProjectRestApiApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/config/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/controller/ProjektRestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/controller/StudentRestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/controller/ZadanieRestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/model/Projekt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/model/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/model/Zadanie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/repository/ProjektRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/repository/StudentRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/repository/ZadanieRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/service/ProjektService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/service/ProjektServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/service/StudentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/service/StudentServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/service/ZadanieService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/java/com/project/service/ZadanieServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/test/java/com/project/ProjectRestApiApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-backend/src/test/java/com/project/rest/ProjektRestControllerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/config/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/controller/ProjectController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/model/Projekt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/model/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/model/Zadanie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/ProjektService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/ProjektServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/RestResponsePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/ServiceUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/StudentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/StudentServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/ZadanieService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/java/com/project/service/ZadanieServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/resources/logback-spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project-web-app/src/main/resources/templates.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7aa73c1e-c181-4e4b-bd61-3bf45e77fcc8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7aa73c1e-c181-4e4b-bd61-3bf45e77fcc8/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7aa73c1e-c181-4e4b-bd61-3bf45e77fcc8/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7aa73c1e-c181-4e4b-bd61-3bf45e77fcc8/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/Signup.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,13 +36,26 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="de1ed2f0-789f-4f2b-a548-ffedb73a9765" />
+        <option name="url" value="https://github.com/MaciejSzerwinski/project_website.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2YiwBX9ZC8V3dRjHbcTywLBTQzi" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -131,6 +76,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -200,6 +146,11 @@
       <workItem from="1701035954528" duration="69000" />
       <workItem from="1701036185141" duration="98000" />
       <workItem from="1701036416033" duration="159000" />
+      <workItem from="1701350766270" duration="2572000" />
+      <workItem from="1701354827711" duration="1047000" />
+      <workItem from="1701356765730" duration="389000" />
+      <workItem from="1701357290298" duration="375000" />
+      <workItem from="1701446146578" duration="706000" />
     </task>
     <servers />
   </component>
@@ -208,5 +159,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
   </component>
 </project>

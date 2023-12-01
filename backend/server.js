@@ -7,13 +7,13 @@ app.use(cors());
 app.use(express.json());
 
 const db = mysql.createConnection({
-    host: "localhost",
-    user: "root" ,
-    password: "",
-    database: "signup"
-})
+    host: process.env.DB_HOST,
+    user: process.env.DB_USER,
+    password: process.env.DB_PASSWORD,
+    database: process.env.DB_NAME
+});
 
-app.post('/signup', (req,res) => {
+app.post('/wielkaniewiadoma_signup', (req,res) => {
     const sql = "INSERT INTO login (`name`, `email`, `password`) VALUES (?)";
     const values = [
         req.body.name,
@@ -42,6 +42,7 @@ app.post('/login', (req, res) => {
     })
 })
 
-app.listen(8081, ()=> {
-    console.log("listening");
-})
+const PORT = process.env.PORT || 8081;
+app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
+});
